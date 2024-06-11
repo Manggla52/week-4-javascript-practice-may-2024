@@ -11,3 +11,10 @@ p {
   width: fit-content;
   margin: auto;
 }
+.Body1{
+  background-color: bisque;
+             color:rgb(34, 2, 2);
+             border: 5px solid rgb(34, 2, 2);
+             padding: 24px;
+             text-align: center;
+}
