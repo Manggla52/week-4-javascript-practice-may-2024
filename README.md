@@ -7,10 +7,9 @@ You may need to add JavaScript and HTML tags to each page to complete the assign
 
 ## Roadmap
 
-- [ ] Update Author on Readme
-- [ ] Complete Day 1
-- [ ] Complete Day 2
-- [ ] Complete Day 3
+- [x] Complete Day 1
+- [x] Complete Day 2
+- [x] Complete Day 3
 - [ ] Complete Day 4
 - [ ] Complete Day 5
 
